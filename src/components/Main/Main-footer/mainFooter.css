@@ -1,0 +1,24 @@
+.mainFooter {
+  border-top: 3px solid black;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footerForm {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footerForm_input {
+  width: 50%;
+  height: 35px;
+}
+
+.footerForm_btn {
+  width: 20%;
+  height: 40px;
+}

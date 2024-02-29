@@ -1,0 +1,22 @@
+.itemBox {
+  width: 70%;
+  height: 88%;
+  margin: 0 auto;
+  border: 1px solid lightgray;
+}
+
+.itemBox__li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+.li__text span {
+  margin-left: 4px;
+}
+
+.li_btn__box button:first-child {
+  margin-right: 8px;
+}

@@ -1,0 +1,16 @@
+.mainHeader {
+  border-bottom: 3px solid black;
+  width: 100%;
+  height: 70px;
+}
+
+.mainHeader__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  margin-top: 6px;
+}
+.mainHeader__list button {
+  padding: 10px;
+}

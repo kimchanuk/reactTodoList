@@ -1,0 +1,9 @@
+.modalInput {
+  position: absolute;
+  background-color: bisque;
+  right: 15%;
+  top: 15%;
+  width: 70%;
+  height: 70%;
+  opacity: 0.9;
+}
